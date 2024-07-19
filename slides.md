@@ -1,11 +1,10 @@
 # RAG System for Portfolio Websites
 
-<!-- ## Vaughn College Computer Engineering Summer Academy 2024 -->
-
 ### Principles of AI
 
 Instructor: Bo Shang
-Vaughn College Computer Engineering Summer Academy 2024
+
+Vaughn College Computer Engineering Summer Academy 2024 - Principles of AI
 
 ---
 
@@ -22,8 +21,6 @@ Note: Vaughn College Summer Academy 2024 - Principles of AI
 
 ---
 
-<!-- The rest of the slides remain the same -->
-
 ## What is a RAG System?
 
 RAG: Retrieval-Augmented Generation
@@ -31,6 +28,10 @@ RAG: Retrieval-Augmented Generation
 - Combines information retrieval and text generation
 - Enhances search capabilities
 - Provides context-aware responses
+
+Watch this short introduction to RAG systems:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-D1OfcDW1M?si=P1hBpVFEjWrsFkWc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Note: Vaughn College Summer Academy 2024 - Principles of AI
 
