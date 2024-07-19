@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>RAG System for Portfolio Websites</title>
+        <title>RAG System for Portfolio Websites - Vaughn College Summer Academy 2024</title>
         <link rel="stylesheet" href="dist/reveal.css">
         <link rel="stylesheet" href="dist/theme/white.css">
     </head>
@@ -11,15 +11,17 @@
             <div class="slides">
                 <section data-markdown="slides.md"
                          data-separator="^\n---\n$"
-                         data-separator-vertical="^\n--\n$">
+                         data-separator-vertical="^\n--\n$"
+                         data-separator-notes="^Note:">
                 </section>
             </div>
         </div>
         <script src="dist/reveal.js"></script>
         <script src="plugin/markdown/markdown.js"></script>
+        <script src="plugin/notes/notes.js"></script>
         <script>
             Reveal.initialize({
-                plugins: [ RevealMarkdown ]
+                plugins: [ RevealMarkdown, RevealNotes ]
             });
         </script>
     </body>

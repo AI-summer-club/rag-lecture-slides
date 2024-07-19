@@ -1,4 +1,10 @@
-# RAG System for Portfolio Websites: Lecture Slides
+# Vaughn College Computer Engineering Summer Academy 2024
+
+## Principles of AI
+
+### RAG System for Portfolio Websites
+
+Instructor: Bo Shang
 
 ---
 
@@ -11,6 +17,8 @@
 - Implementing RAG for portfolios
 - Hands-on exercise
 
+Note: Vaughn College Summer Academy 2024 - Principles of AI
+
 ---
 
 ## What is a RAG System?
@@ -20,6 +28,8 @@ RAG: Retrieval-Augmented Generation
 - Combines information retrieval and text generation
 - Enhances search capabilities
 - Provides context-aware responses
+
+Note: Vaughn College Summer Academy 2024 - Principles of AI
 
 ---
 
@@ -32,6 +42,8 @@ RAG: Retrieval-Augmented Generation
 - Showcase of technical skills
 - Dynamic content presentation
 
+Note: Vaughn College Summer Academy 2024 - Principles of AI
+
 ---
 
 ## Building Blocks of RAG
@@ -41,6 +53,8 @@ RAG: Retrieval-Augmented Generation
 3. Retrieval Mechanism
 4. Generation (for advanced applications)
 
+Note: Vaughn College Summer Academy 2024 - Principles of AI
+
 ---
 
 ## Data Preparation
@@ -49,6 +63,8 @@ RAG: Retrieval-Augmented Generation
 - Structure data (text, images, projects)
 - Create a comprehensive knowledge base
 - Consider metadata and tagging
+
+Note: Vaughn College Summer Academy 2024 - Principles of AI
 
 ---
 
@@ -60,6 +76,8 @@ Convert text to vector representations
 - Tools: sentence-transformers, spaCy
 - Store embeddings efficiently (databases, file systems)
 
+Note: Vaughn College Summer Academy 2024 - Principles of AI
+
 ---
 
 ## Retrieval Mechanism
@@ -68,6 +86,8 @@ Convert text to vector representations
 - Ranking and filtering results
 - Tools: FAISS, Annoy, Elasticsearch
 - Balance between speed and accuracy
+
+Note: Vaughn College Summer Academy 2024 - Principles of AI
 
 ---
 
@@ -78,6 +98,8 @@ Convert text to vector representations
 - Display results effectively
 - Consider responsiveness and accessibility
 
+Note: Vaughn College Summer Academy 2024 - Principles of AI
+
 ---
 
 ## Implementing RAG: Backend
@@ -87,6 +109,8 @@ Convert text to vector representations
 - Handle user queries
 - Return relevant results
 
+Note: Vaughn College Summer Academy 2024 - Principles of AI
+
 ---
 
 ## Deployment and Testing
@@ -95,6 +119,8 @@ Convert text to vector representations
 - Deploy RAG-enhanced portfolio site
 - Conduct thorough testing
 - Optimize performance
+
+Note: Vaughn College Summer Academy 2024 - Principles of AI
 
 ---
 
@@ -107,6 +133,8 @@ Implement a basic RAG system for your portfolio
 - Test with sample queries
 - Troubleshoot with instructor help
 
+Note: Vaughn College Summer Academy 2024 - Principles of AI
+
 ---
 
 ## Conclusion
@@ -115,3 +143,15 @@ Implement a basic RAG system for your portfolio
 - Discuss potential enhancements
 - Explore advanced RAG applications
 - Q&A session
+
+Note: Vaughn College Summer Academy 2024 - Principles of AI
+
+---
+
+## Thank You!
+
+### Questions?
+
+Instructor: Bo Shang
+
+Vaughn College Computer Engineering Summer Academy 2024 - Principles of AI
