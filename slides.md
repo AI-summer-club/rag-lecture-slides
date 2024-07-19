@@ -1,10 +1,11 @@
 # RAG System for Portfolio Websites
 
-## Vaughn College Computer Engineering Summer Academy 2024
+<!-- ## Vaughn College Computer Engineering Summer Academy 2024 -->
 
 ### Principles of AI
 
 Instructor: Bo Shang
+Vaughn College Computer Engineering Summer Academy 2024
 
 ---
 
